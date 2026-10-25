@@ -53,9 +53,11 @@ else
 fi
 
 ui_print " "
+ui_print " "
 ui_print "NoMount: TRUE"
 ui_print " "
-ui_print "KernelSU: TRUE"
-ui_print " "
 ui_print "SUSFS: FALSE"
+ui_print " "
+ui_print "hwhe: SUPEERRR"
+ui_print " "
 ui_print " "
